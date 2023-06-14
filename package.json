@@ -2,11 +2,11 @@
   "name": "goit-nodejs-hw-01",
   "version": "1.0.0",
   "description": "",
-  "main": "contacts.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node contacts",
-    "dev": "nodemon  contacts"
+    "start": "node index",
+    "dev": "nodemon  index"
   },
   "keywords": [],
   "author": "",
